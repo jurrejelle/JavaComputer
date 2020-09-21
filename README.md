@@ -21,7 +21,8 @@ You can make your own 'Program' by modifying the bytecode being written in main.
 I made this in the freshmen discord server, along with some other people in a call. We spent 6 hours total on this as of now, consisting of a 2 hour chunk (before a lecture) and another 4 hour chunk (after that lecture).\
 Both sittings were recorded and uploaded to youtube, so to see us messing around in java and building it from scratch, you can visit these links: https://youtu.be/PAJS4On2_fg and https://youtu.be/-G-1VTyQ5A8 \
 \
-As for now, we've also made and tested some code in it, for example a power function, which worked flawlessly.
+As for now, we've also made and tested some code in it, for example a power function, which worked flawlessly.\
+I also managed to get a true recursive factorial function working, which was pretty neat.
 ### Contact:
 @jurrejelle on telegram, instagram, twitter, github\
 jurrejelle#4936 on discord\
